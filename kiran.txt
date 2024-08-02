@@ -1,3 +1,6 @@
 hello my name is kiran.
 my name is kiran again 
 i want to comit and add to the repo now.
+{
+    open auth
+}
